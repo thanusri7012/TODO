@@ -181,9 +181,6 @@ class _TodoDetailDialogState extends State<TodoDetailDialog> {
               ],
               
               const SizedBox(height: 30),
-              
-              // No action buttons (Save/Delete/Toggle) are required here, as actions
-              // are handled via the outside Kanban card menu and drag/drop.
             ],
           ),
         ),
